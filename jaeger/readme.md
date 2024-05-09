@@ -1,4 +1,4 @@
-## 1.本地启动Jaeger
+## 本地启动Jaeger
 ``` shell
 docker run -d --name jaeger \
   -e COLLECTOR_ZIPKIN_HOST_PORT=:9411 \
