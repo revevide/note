@@ -1,6 +1,6 @@
 module jaeger
 
-go 1.21.10
+go 1.19
 
 require (
 	github.com/gin-gonic/gin v1.10.0
